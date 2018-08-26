@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "typescript": "^3.0.1"
+  },
+  "name": "ts_ex2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yousan_O <yousan@l2tp.org>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/js-yaml": "^3.11.2",
+    "js-yaml": "^3.12.0"
+  }
+}
