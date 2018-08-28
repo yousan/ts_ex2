@@ -1,5 +1,8 @@
 {
   "devDependencies": {
+    "@types/jest": "^23.3.1",
+    "jest": "^23.5.0",
+    "ts-jest": "^23.1.4",
     "typescript": "^3.0.1"
   },
   "name": "ts_ex2",
@@ -10,5 +13,8 @@
   "dependencies": {
     "@types/js-yaml": "^3.11.2",
     "js-yaml": "^3.12.0"
+  },
+  "scripts": {
+    "test": "jest"
   }
 }
